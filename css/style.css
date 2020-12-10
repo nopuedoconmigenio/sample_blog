@@ -113,3 +113,26 @@ aside ul li a {
    text-decoration: none;
    color: rgb(46, 2, 2);
 }
+footer {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: #333;
+   width: 100%;
+}
+
+footer a:hover {
+   color: rgb(10, 134, 134);
+}
+
+footer p {
+   color: whitesmoke;
+   padding: 10px;
+}
+
+footer a {
+   color: whitesmoke;
+   padding: 0px 10px 0px 10px;
+}
+
