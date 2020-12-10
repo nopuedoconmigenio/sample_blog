@@ -32,7 +32,7 @@ h6 {
 .container {
    max-width: 900px;
    margin: auto;
-   /* border-left: 1px solid black; */
+   border-left: 1px solid black;
    border-right: 1px solid black;
 }
 
