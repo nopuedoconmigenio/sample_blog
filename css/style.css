@@ -44,11 +44,6 @@ header {
    background-color: rgba(121, 36, 21, 0.158);
 }
 
-/* .logo {
-   width: 100px;
-   height: 100px;
-   
-} */
 nav img {
    border-radius: 50%;
    width: 80px;
@@ -57,7 +52,7 @@ nav img {
 
 header nav {
    display: flex;
-   /* justify-content: center; */
+   justify-content: center; 
    align-items: center;
    padding: 20px;
 }
